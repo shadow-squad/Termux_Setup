@@ -20,7 +20,7 @@ pkg install python -y
 git clone https://github.com/shadow-squad/Termux_Setup
 cd Termux_Setup
 python run.py
-
+```
 
 
 
